@@ -1,0 +1,150 @@
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Shipment Notice-Ricardo Adocicados.txt
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Blauer See Delikatessen.txt
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Bon app'.txt
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Cactus Comidas para llevar.txt
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Great Lakes Food Market.txt
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-LILA-Supermercado.txt
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Pericles Comidas clásicas.txt
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Rancho grande.txt
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Rattlesnake Canyon Grocery.txt
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Ricardo Adocicados.txt
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Richter Supermarkt.txt
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Romero y tomillo.txt
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Simons bistro.txt
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessingLib.UnitTests.dll
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessingLib.UnitTests.pdb
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csproj.CopyComplete
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.dll
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.pdb
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Shipment Notice-Ricardo Adocicados.txt
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Blauer See Delikatessen.txt
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Bon app'.txt
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Bólido Comidas preparadas.txt
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Cactus Comidas para llevar.txt
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Great Lakes Food Market.txt
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-LILA-Supermercado.txt
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Pericles Comidas clásicas.txt
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Rancho grande.txt
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Rattlesnake Canyon Grocery.txt
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Ricardo Adocicados.txt
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Richter Supermarkt.txt
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Romero y tomillo.txt
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Simons bistro.txt
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessingLib.UnitTests.dll
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessingLib.UnitTests.pdb
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessing.Lib.dll
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessing.Lib.pdb
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csprojAssemblyReference.cache
+D:\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csproj.CoreCompileInputs.cache
+D:\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csproj.CopyComplete
+D:\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.dll
+D:\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.pdb
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.dll
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.pdb
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Shipment Notice-Ricardo Adocicados.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Blauer See Delikatessen.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Bon app'.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Cactus Comidas para llevar.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Great Lakes Food Market.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-LILA-Supermercado.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Pericles Comidas clásicas.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Rancho grande.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Rattlesnake Canyon Grocery.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Ricardo Adocicados.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Richter Supermarkt.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Romero y tomillo.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Simons bistro.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessingLib.UnitTests.dll
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessingLib.UnitTests.pdb
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csproj.CopyComplete
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Shipment Notice-Ricardo Adocicados.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Blauer See Delikatessen.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Bon app'.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Cactus Comidas para llevar.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Great Lakes Food Market.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-LILA-Supermercado.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Pericles Comidas clásicas.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Rancho grande.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Rattlesnake Canyon Grocery.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Ricardo Adocicados.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Richter Supermarkt.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Romero y tomillo.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Simons bistro.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessingLib.UnitTests.dll
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessingLib.UnitTests.pdb
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csproj.CopyComplete
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.dll
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.pdb
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.dll
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.pdb
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Shipment Notice-Ricardo Adocicados.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Blauer See Delikatessen.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Bon app'.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Cactus Comidas para llevar.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Great Lakes Food Market.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-LILA-Supermercado.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Pericles Comidas clásicas.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Rancho grande.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Rattlesnake Canyon Grocery.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Ricardo Adocicados.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Richter Supermarkt.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Romero y tomillo.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\ShipmentNotices\Shipment Notice-Simons bistro.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessingLib.UnitTests.dll
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessingLib.UnitTests.pdb
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessingLib.UnitTests\obj\Release\OrderProcessingLib.UnitTests.csproj.CopyComplete

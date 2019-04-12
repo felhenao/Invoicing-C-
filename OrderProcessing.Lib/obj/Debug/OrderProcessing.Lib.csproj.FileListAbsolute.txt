@@ -1,0 +1,12 @@
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessing.Lib\bin\Debug\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessing.Lib\bin\Debug\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessing.Lib\obj\Debug\OrderProcessing.Lib.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessing.Lib\obj\Debug\OrderProcessing.Lib.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessing.Lib\obj\Debug\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessing.Lib\obj\Debug\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessing.Lib\bin\Debug\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessing.Lib\bin\Debug\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessing.Lib\obj\Debug\OrderProcessing.Lib.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessing.Lib\obj\Debug\OrderProcessing.Lib.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessing.Lib\obj\Debug\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessing.Lib\obj\Debug\OrderProcessing.Lib.pdb

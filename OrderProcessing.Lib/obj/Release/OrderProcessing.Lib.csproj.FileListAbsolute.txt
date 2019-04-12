@@ -1,0 +1,30 @@
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessing.Lib\bin\Release\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessing.Lib\bin\Release\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Documents\Visual Studio 2017\Projects\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.pdb
+D:\EmailProcessing\OrderProcessing.Lib\bin\Release\OrderProcessing.Lib.dll
+D:\EmailProcessing\OrderProcessing.Lib\bin\Release\OrderProcessing.Lib.pdb
+D:\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.csprojAssemblyReference.cache
+D:\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.csproj.CoreCompileInputs.cache
+D:\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.dll
+D:\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessing.Lib\bin\Release\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessing.Lib\bin\Release\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Desktop\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessing.Lib\bin\Release\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessing.Lib\bin\Release\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessing.Lib\obj\Release\OrderProcessing.Lib.pdb
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessing.Lib\bin\Release\OrderProcessing.Lib.dll
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\OrderProcessing.Lib\bin\Release\OrderProcessing.Lib.pdb

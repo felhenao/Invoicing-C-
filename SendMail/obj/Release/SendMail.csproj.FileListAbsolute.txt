@@ -1,0 +1,114 @@
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-Ana Trujillo Emparedados y helados.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-B's Beverages.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-Berglunds snabbköp.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-Centro comercial Moctezuma.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-Familia Arquibaldo.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-Furia Bacalhau e Frutos do Mar.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-GROSELLA-Restaurante.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-Hanari Carnes.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-Island Trading.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-La maison d'Asie.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-Bigfoot Breweries.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-G'day, Mate.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-Leka Trading.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-Pavlova, Ltd..txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-Plutzer Lebensmittelgroßmärkte AG.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Blauer See Delikatessen.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Bon app'.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Cactus Comidas para llevar.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Great Lakes Food Market.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-LILA-Supermercado.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Pericles Comidas clásicas.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Rancho grande.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Rattlesnake Canyon Grocery.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Ricardo Adocicados.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Richter Supermarkt.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Romero y tomillo.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Simons bistro.txt
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\SendMail.exe.config
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\SendMail.exe
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\bin\Release\SendMail.pdb
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\obj\Release\SendMail.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\obj\Release\SendMail.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\obj\Release\SendMail.exe
+C:\Users\perscholas_student\Desktop\EmailProcessing\SendMail\obj\Release\SendMail.pdb
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-Ana Trujillo Emparedados y helados.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-B's Beverages.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-Berglunds snabbköp.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-Centro comercial Moctezuma.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-Familia Arquibaldo.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-Furia Bacalhau e Frutos do Mar.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-GROSELLA-Restaurante.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-Hanari Carnes.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-Island Trading.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received-La maison d'Asie.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-Bigfoot Breweries.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-G'day, Mate.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-Leka Trading.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-Pavlova, Ltd..txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-Plutzer Lebensmittelgroßmärkte AG.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Blauer See Delikatessen.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Bon app'.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Cactus Comidas para llevar.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Great Lakes Food Market.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-LILA-Supermercado.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Pericles Comidas clásicas.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Rancho grande.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Rattlesnake Canyon Grocery.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Ricardo Adocicados.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Richter Supermarkt.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Romero y tomillo.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Simons bistro.txt
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\SendMail.exe.config
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\SendMail.exe
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\bin\Release\SendMail.pdb
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\obj\Release\SendMail.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\obj\Release\SendMail.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\obj\Release\SendMail.exe
+C:\Users\perscholas_student\Desktop\c#\EmailProcessing\SendMail\obj\Release\SendMail.pdb
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Blauer See Delikatessen.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Bon app'.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Cactus Comidas para llevar.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Great Lakes Food Market.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-LILA-Supermercado.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Pericles Comidas clásicas.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Rancho grande.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Rattlesnake Canyon Grocery.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Ricardo Adocicados.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Richter Supermarkt.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Romero y tomillo.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\ShipmentNotices\Shipment Notice-Simons bistro.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-Bigfoot Breweries.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-G'day, Mate.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-Leka Trading.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-Pavlova, Ltd..txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\RestockNotices\Restock Notice-Plutzer Lebensmittelgroßmärkte AG.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\obj\Release\SendMail.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\obj\Release\SendMail.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\obj\Release\SendMail.exe
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\obj\Release\SendMail.pdb
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\SendMail.exe.config
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\SendMail.exe
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\SendMail.pdb
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received - Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received - Ernst Handel.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received - Great Lakes Food Market.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received - La maison d'Asie.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received - LILA-Supermercado.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received - LINO-Delicateses.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received - Pericles Comidas clásicas.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received - Queen Cozinha.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\PaymentReceived\Payment Received - Reggiani Caseifici.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\OrderRequests\Order Request-Antonio Moreno Taquería.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\OrderRequests\Order Request-Bólido Comidas preparadas.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\OrderRequests\Order Request-Franchi S.p.A..txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\OrderRequests\Order Request-Gourmet Lanchonetes.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\OrderRequests\Order Request-LINO-Delicateses.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\OrderRequests\Order Request-Princesa Isabel Vinhos.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\OrderRequests\Order Request-Reggiani Caseifici.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\OrderRequests\Order Request-Romero y tomillo.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\OrderRequests\Order Request-Toms Spezialitäten.txt
+C:\Users\perscholas_student\Desktop\uipath\CaseStudy\EmailProcessing\SendMail\bin\Release\OrderRequests\Order Request-Wartian Herkku.txt
